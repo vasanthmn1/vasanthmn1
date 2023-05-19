@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/vasanthmn1" target="blank"><img src="https://img.shields.io/twitter/follow/vasanthmn1?logo=twitter&style=for-the-badge" alt="vasanthmn1" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://comforting-basbousa-28b74c.netlify.app/](https://vasanthprofile.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vasanthprofile.netlify.app/)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **mnvasanth4@gmail.com**
 
-- 📄 about my resume [https://drive.google.com/file/d/1pkXTZREVM5F-NOPAKGwpFs2phA8sEpr-/view?usp=sharing](https://drive.google.com/file/d/1pkXTZREVM5F-NOPAKGwpFs2phA8sEpr-/view?usp=sharing)
+- 📄 about my [resume](https://drive.google.com/file/d/1pkXTZREVM5F-NOPAKGwpFs2phA8sEpr-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
