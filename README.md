@@ -49,4 +49,4 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
 ![](https://leetcard.jacoblin.cool/mnvasanth4?theme=dark&font=Poppins&ext=contest)
-<!-- ![Snake animation](https://github.com/vasanthmn1/vasanthmn1/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/vasanthmn1/vasanthmn1/blob/output/github-contribution-grid-snake.svg)
