@@ -19,7 +19,10 @@
    
 <br>
 <br>
-  
+<div align="center">
+	 ![Leetcode Stats](https://leetcard.jacoblin.cool/mnvasanth4?theme=dark)
+	</div> 
+ 
 <div style="display: inline_block">
   <p align="center">
 	<a href="#">
