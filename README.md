@@ -16,7 +16,7 @@
      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vasanthmn1&theme=github_dark&show_icons=true" />
   </a>
 <div style="margin: 50px">
-	  <h1 style="color: red;">GitHub daily status</h1>
+	  <h1 style="color: red;">GitHub Daily Status</h1>
 	<img height="250rem" src="https://github-readme-activity-graph.vercel.app/graph?username=vasanthmn1&bg_color=000000&color=ffffff&line=49a835&point=ffffff&area=true&hide_border=true" />
   </div>
  
